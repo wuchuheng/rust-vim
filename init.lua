@@ -84,5 +84,6 @@ return {
     --   },
     -- }
     require("nvim-dap-projects").search_project_config()
+    require("user.dap.rust-dap").setup()
   end,
 }
