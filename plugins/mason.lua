@@ -33,6 +33,7 @@ return {
           -- "python",
           "codelldb",
           "cpptools",
+          "rust-analyzer"
         }
       )
     end,
