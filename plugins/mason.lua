@@ -32,8 +32,8 @@ return {
         opts.ensure_installed, {
           -- "python",
           "codelldb",
+          "rust-analyzer",
           "cpptools",
-          "rust-analyzer"
         }
       )
     end,
